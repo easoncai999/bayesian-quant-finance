@@ -90,4 +90,4 @@ This project is licensed under the GNU general public license v3.0. License – 
 
 ## Contact
 
-For questions or feedback, please contact Eason Cai at [xuchen.cai.th@dartmouth.edu].
+For questions or feedback, please contact me at [xuchen.cai.th@dartmouth.edu].
